@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Data Scientist",
+    "skills": ["python", "machine learning", "data analysis", "sql", "pandas", "numpy"],
+    "description": "Analyze data, build predictive models, and create insights."
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "skills": ["python", "machine learning", "tensorflow", "pytorch", "api", "docker"],
+    "description": "Build and deploy ML models and production pipelines."
+  },
+  {
+    "title": "Backend Developer",
+    "skills": ["python", "fastapi", "sql", "api", "docker", "git"],
+    "description": "Develop APIs, server logic, and backend systems."
+  },
+  {
+    "title": "Frontend Developer",
+    "skills": ["javascript", "react", "html", "css", "typescript", "git"],
+    "description": "Build user interfaces and responsive web apps."
+  },
+  {
+    "title": "DevOps Engineer",
+    "skills": ["linux", "docker", "kubernetes", "aws", "git", "ci/cd"],
+    "description": "Manage deployment, automation, and cloud infrastructure."
+  },
+  {
+    "title": "Data Analyst",
+    "skills": ["excel", "sql", "tableau", "power bi", "python", "data analysis"],
+    "description": "Analyze business data and present insights."
+  }
+]
