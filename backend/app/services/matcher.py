@@ -11,7 +11,7 @@ from app.services.links import generate_job_links
 
 @lru_cache(maxsize=1)
 def get_model():
-    return SentenceTransformer("all-MiniLM-L6-v2")
+    return SentenceTransformer("paraphrase-MiniLM-L3-v2")
 
 
 def get_embedding(text: str):
@@ -71,7 +71,7 @@ def load_naukri_roles():
     )
 
     df = df.sample(
-        n=min(2000, len(df)),
+        n=min(200, len(df)),
         random_state=42
     )
 
