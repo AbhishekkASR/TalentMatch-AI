@@ -390,7 +390,8 @@ This project is developed for educational and academic purposes.
 
 # Screenshots
 
-Add project screenshots here after completing the UI.
+<img width="1905" height="915" alt="Screenshot 2026-05-12 004702" src="https://github.com/user-attachments/assets/f122f967-a972-4d3c-a3ce-d6dc18f7a430" />
+
 
 ---
 
