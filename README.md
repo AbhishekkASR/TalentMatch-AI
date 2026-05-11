@@ -391,6 +391,8 @@ This project is developed for educational and academic purposes.
 # Screenshots
 
 <img width="1905" height="915" alt="Screenshot 2026-05-12 004702" src="https://github.com/user-attachments/assets/f122f967-a972-4d3c-a3ce-d6dc18f7a430" />
+<img width="1919" height="996" alt="Screenshot 2026-05-12 004352" src="https://github.com/user-attachments/assets/f9859704-c135-4f9f-a7bd-a4a0d744be70" />
+<img width="1905" height="857" alt="Screenshot 2026-05-11 061608" src="https://github.com/user-attachments/assets/72b987fb-d0a8-4d4d-bba5-82f54a166c8f" />
 
 
 ---
